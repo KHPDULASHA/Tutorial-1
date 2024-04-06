@@ -1,0 +1,17 @@
+body {
+  background-color: #fec7b4;
+  height: 100%;
+}
+
+form {
+  width: 28%;
+  margin: auto;
+  padding-top: 150px;
+}
+.bg {
+  background-color: #fff3c7;
+}
+.btn-color {
+  background-color: #fc819e;
+  border: none;
+}
